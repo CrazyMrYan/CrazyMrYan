@@ -1,7 +1,7 @@
 [![Mr.Yan's Github Stats](https://github-readme-stats.vercel.app/api?username=CrazyMrYan&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/CrazyMrYan)
 
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=CrazyMrYan&repo=vue-tree-color)](https://github.com/CrazyMrYan/vue-tree-color)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyMrYan&repo=vue-tree-color&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyMrYan&layout=default)](https://github.com/CrazyMrYan)
