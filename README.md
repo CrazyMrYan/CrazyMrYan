@@ -2,6 +2,3 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyMrYan&repo=vue-tree-color&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyMrYan&layout=default)](https://github.com/CrazyMrYan)
