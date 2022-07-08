@@ -14,7 +14,7 @@
 ## 我的贡献
 [![Mr.Yan's Github Stats](https://github-readme-stats.vercel.app/api?username=CrazyMrYan&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/CrazyMrYan)
 
-## 值得一提的
+## 比较 Low 的
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyMrYan&repo=blog&show_owner=true)](https://github.com/CrazyMrYan/blog)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyMrYan&repo=vue-tree-color&show_owner=true)](https://github.com/CrazyMrYan/vue-tree-color)
