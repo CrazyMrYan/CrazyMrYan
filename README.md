@@ -21,3 +21,7 @@
 ## 主页访问量
 
 ![](https://profile-counter.glitch.me/CrazyMrYan/count.svg)
+
+## 闲聊15分钟
+
+https://cal.com/crazymryan/15min
